@@ -1,0 +1,18 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: antiquewhite;
+  color: rgb(80, 70, 124);
+}
+h1{
+  text-align: center;
+}
+
+a {
+  color: #00B7FF;
+}
+h2{
+  color: aquamarine;
+  border: 2px solid goldenrod;
+  padding: 10px;
+}
